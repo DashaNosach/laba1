@@ -1,0 +1,13 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "files": [
+            "task1.php",
+            "task2.php",
+            "task3.php",
+            "task4.php"
+        ]
+    }
+}
